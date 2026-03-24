@@ -4,7 +4,7 @@ A easy to use UI configurator for Plutonium
 ![PlutoniumPlus Screenshot](Screenshots/Screenshot-1.png)
 
 ## Features
-- Move Plutonium directory to anyone in one click
+- Move Plutonium directory to anywhere in one click
 - Create a desktop shortcut to run from moved directory without seeing PlutoniumPlus or Plutonium launcher recreating the Appdata folder
 
 ## Instructions
